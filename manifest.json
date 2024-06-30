@@ -1,0 +1,12 @@
+{
+  "name": "Easy_Track",
+  "description": "Track your work and manage your life",
+  "version": "1.0",
+  "manifest_version":3,
+  
+  "permission":["storage","alarms","notification"],
+  "action":{
+      "default_popup":"index.html",
+      "default_icon": "to-do-list-clipart-logo-4.png"
+      
+  }}
